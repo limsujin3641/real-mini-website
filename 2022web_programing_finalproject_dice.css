@@ -1,0 +1,40 @@
+.box {
+
+width: auto;
+text-align: center;
+margin: auto;
+
+}
+
+body{
+ 
+}
+
+p{
+
+color: b#F9FCD3;
+font-family: 'DX신궁체B';
+}
+
+.box{
+color: #F9FCD3;
+margin: 100pt;
+font-family: 'DX신궁체B', 'Arial Narrow', Arial, sans-serif;
+font-size: larger;
+
+}   
+ 
+#btn{
+transition-duration: 3;
+
+}
+
+#btn:hover{
+    background-color: #172e21;
+}
+
+#btn-box {
+    color: #172e21;
+
+    
+}
